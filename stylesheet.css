@@ -1,0 +1,66 @@
+h1 {
+color: rgb(255, 255, 255);
+text-shadow: 2px 2px 4px #000000;
+text-align: center;
+}
+
+
+.Pic {
+  background-color:black;
+  
+width: 300px;
+height: 200px;
+border-radius: 100px;
+
+}
+
+
+table {
+  border-collapse: collapse;
+  width: 23%;
+}
+
+th, td {
+  padding: 10px;
+  text-align: left;
+  border-bottom: 5px solid rgb(239, 234, 234);
+}
+
+tr:hover {
+  background-color: rgb(154, 86, 237);
+}
+
+
+
+table, th, td {
+  border: 0px solid;
+width: 23%;
+color: rgb(47, 36, 57);
+
+}
+
+.line {
+  text-align: center;
+  border: 15px solid rgb(58, 54, 54); 
+}
+
+
+.BigBox {
+  background-color: rgb(255, 255, 255);
+  width: 150px;
+  border: 15px solid rgb(0, 0, 0);
+  padding: 50px;
+  margin: 20px;
+position: relative; right: -70%;
+position: relative; top: -750px;
+border-radius: 75px;
+color: rgb(59, 62, 65);
+text-shadow: 2px 2px 4px #000000;
+}
+
+.BoxT {
+outline: thick ridge rgb(91, 103, 100);
+position: relative;top: -750px;
+text-shadow:#000000 2px 2px 4px ;
+color:rgb(52, 58, 63)
+}
